@@ -19,9 +19,9 @@ This is a promotional website for Vortex Technologies which makes gaming mouses.
 # Developers
 
 ## Kartik Arora
-![Kartik](https://vortex-1.cashlycash.repl.co/static/media/kartik-pfp.f68c0dcceb3d4060d233.jpg =100x100)
+<img src="https://vortex-1.cashlycash.repl.co/static/media/kartik-pfp.f68c0dcceb3d4060d233.jpg" width="100" height="100" />
 [`Github`](https://github.com/BinaryKartik) | [`Discord`](https://discordapp.com/users/786172822879600650)
 
 ## Arnav Gupta
-![Arnav Gupta](https://avatars.githubusercontent.com/u/104839480 =100x100)
+<img src="https://avatars.githubusercontent.com/u/104839480" width="100" height="100" />
 [`Github`](https://github.com/ArnavGupta30) | [`Discord`](https://github.com/ArnavGupta30)
